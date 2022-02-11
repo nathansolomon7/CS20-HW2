@@ -63,7 +63,7 @@ body{
 }
 
 #showcase{
-    background-image:url('../images/Homes picture.jpeg');
+    background-image:url('images/Homes picture.jpeg');
     /* min-height:400px; */
     max-width: 100%;
     margin-bottom:30px;
