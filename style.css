@@ -9,7 +9,8 @@ body{
 }
 
 .page-container{
-     position: relative;
+    margin:0 auto;
+     /* position: relative; */
 }
 
 .container{
@@ -62,7 +63,7 @@ body{
 }
 
 #showcase{
-    background-image:url('Homes picture.jpeg');
+    background-image:url('../images/Homes picture.jpeg');
     min-height:400px;
     max-width: 100%;
     margin-bottom:30px;
@@ -113,7 +114,7 @@ body{
     /*increases the black space surrounding the text*/
     padding:.5px;
     margin-top:60px;
-    position: absolute;
+    /* position: absolute; */
     bottom: 0px;;
     width: 100%;
 }
