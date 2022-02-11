@@ -9,7 +9,7 @@ body{
 }
 
 .page-container{
-     position: relative;
+    margin: 0 auto;
 }
 
 .container{
@@ -113,7 +113,6 @@ body{
     /*increases the black space surrounding the text*/
     padding:.5px;
     margin-top:60px;
-    position: absolute;
     bottom: 0px;;
     width: 100%;
 }
